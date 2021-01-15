@@ -1,0 +1,13 @@
+.border-remove{
+    border: 0;
+}
+.back-remove{
+    background-color: white;
+    border: 0;
+}
+.images-resize img{
+    width: 100px;
+}
+.bg-color{
+    background-color: #fceae8;
+}
